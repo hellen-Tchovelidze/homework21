@@ -101,7 +101,7 @@ let sum = 0
 
 
 let number = 10
-for (let index = 0; index < 11; index++) {
+for (let index = 1; index < 11; index++) {
   
     console.log(number + "*" + index + "=" + number * index);
     
